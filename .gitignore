@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Large Data and Model Files
+dataset/
+models/
+*.h5
+*.keras
+
+# IDE / Editor specific settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated output files
+training_plots.png
