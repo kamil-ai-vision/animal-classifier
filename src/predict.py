@@ -49,7 +49,7 @@ def predict_animal(model, image_path):
 # --- Main execution block ---
 if __name__ == "__main__":
     # Define the path to your model
-    model_path = "../models/animal_classifier.keras"
+    model_path = "D:/VS Code/animal-classifier/models/animal_classifier_v3.keras"
     
     # --- 🖍️ EDIT THIS LIST ---
     # Add the paths to the images you want to predict.
